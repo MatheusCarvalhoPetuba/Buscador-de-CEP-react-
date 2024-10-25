@@ -1,0 +1,18 @@
+.conteiner-info-cep {
+  display: none;
+}
+
+.info-cep {
+  background-color: rgb(80, 80, 80);
+  width: 100%;
+  padding: 10px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1em;
+}
+
+.opacity {
+  display: block;
+}
